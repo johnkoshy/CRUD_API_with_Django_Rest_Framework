@@ -1,12 +1,20 @@
 # CRUD_API_with_Django_Rest_Framework
 
-Please visit the follwoing links for CRUD operations
+To run the app, open vs code and type in terminal:
+python manage.py runserver
 
-to see all locations
+open any browser and visit the below link to see the admin panel:
+
+http://127.0.0.1:8000/admin
+please login with the credentials:
+username: john2
+password: mathew9
+
+To see the items list:
 http://127.0.0.1:8000/api/location
-to see all items
+To see all the items:
 http://127.0.0.1:8000/api/item
-to update 3rd location, type the location name and click PUT button
+To update the 3rd location name, type the new location name in the below link and click the PUT button:
 http://127.0.0.1:8000/api/location/3
-to see only item in specific locations where id like 2
+To see only item in specific location where id like 2:
 http://127.0.0.1:8000/api/item/?location=2
