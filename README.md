@@ -3,12 +3,14 @@
 To run the app, open vs code and type in terminal:
 python manage.py runserver
 
-open any browser and visit the below link to see the admin panel:
+Open any browser and visit the below link to see the admin panel:
 
 http://127.0.0.1:8000/admin
 
-please login with the credentials:
+Please login with the credentials:
+
 username: john2
+
 password: mathew9
 
 To see the items list:
